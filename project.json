@@ -1,6 +1,6 @@
 {
-  "name": "BlankProcess",
-  "description": "Blank Process",
+  "name": "RPA_Projects",
+  "description": "RPA_Projects",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.5.4]",
